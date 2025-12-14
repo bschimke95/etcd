@@ -55,7 +55,7 @@ require (
 	github.com/bitfield/gotestdox v0.2.2 // indirect
 	github.com/bkielbasa/cyclop v1.2.3 // indirect
 	github.com/blizzy78/varnamelen v0.8.0 // indirect
-	github.com/bmatcuk/doublestar/v4 v4.8.1 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.9.1 // indirect
 	github.com/bombsimon/wsl/v4 v4.7.0 // indirect
 	github.com/bombsimon/wsl/v5 v5.3.0 // indirect
 	github.com/breml/bidichk v0.3.3 // indirect
@@ -156,7 +156,7 @@ require (
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.19 // indirect
-	github.com/mattn/go-sqlite3 v1.14.24 // indirect
+	github.com/mattn/go-sqlite3 v1.14.32 // indirect
 	github.com/mgechev/revive v1.12.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
@@ -167,6 +167,7 @@ require (
 	github.com/nishanths/exhaustive v0.12.0 // indirect
 	github.com/nishanths/predeclared v0.2.2 // indirect
 	github.com/nunnatsa/ginkgolinter v0.21.2 // indirect
+	github.com/onsi/ginkgo/v2 v2.27.2 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
 	github.com/phayes/checkstyle v0.0.0-20170904204023-bfd46e6a821d // indirect
@@ -175,7 +176,7 @@ require (
 	github.com/prometheus/client_golang v1.23.2 // indirect
 	github.com/prometheus/client_model v0.6.2 // indirect
 	github.com/prometheus/common v0.67.4 // indirect
-	github.com/prometheus/procfs v0.16.1 // indirect
+	github.com/prometheus/procfs v0.17.0 // indirect
 	github.com/quasilyte/go-ruleguard v0.4.5 // indirect
 	github.com/quasilyte/go-ruleguard/dsl v0.3.23 // indirect
 	github.com/quasilyte/gogrep v0.5.0 // indirect
@@ -186,22 +187,23 @@ require (
 	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	github.com/ryanrolds/sqlclosecheck v0.5.1 // indirect
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06 // indirect
-	github.com/sagikazarmark/locafero v0.7.0 // indirect
+	github.com/sagikazarmark/locafero v0.11.0 // indirect
 	github.com/sanposhiho/wastedassign/v2 v2.1.0 // indirect
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2 // indirect
 	github.com/sashamelentyev/interfacebloat v1.1.0 // indirect
 	github.com/sashamelentyev/usestdlibvars v1.29.0 // indirect
 	github.com/securego/gosec/v2 v2.22.10 // indirect
+	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/sivchari/containedctx v1.0.3 // indirect
 	github.com/sonatard/noctx v0.4.0 // indirect
-	github.com/sourcegraph/conc v0.3.0 // indirect
+	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8 // indirect
 	github.com/sourcegraph/go-diff v0.7.0 // indirect
-	github.com/spf13/afero v1.14.0 // indirect
-	github.com/spf13/cast v1.7.1 // indirect
+	github.com/spf13/afero v1.15.0 // indirect
+	github.com/spf13/cast v1.10.0 // indirect
 	github.com/spf13/cobra v1.10.1 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
-	github.com/spf13/viper v1.20.0 // indirect
+	github.com/spf13/viper v1.21.0 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
 	github.com/stbenjam/no-sprintf-host-port v0.2.0 // indirect
 	github.com/stretchr/objx v0.5.2 // indirect
@@ -235,12 +237,12 @@ require (
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/crypto v0.45.0 // indirect
-	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8 // indirect
+	golang.org/x/exp v0.0.0-20250911091902-df9299821621 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20251023183803-a4bb9ffd2546 // indirect
-	golang.org/x/mod v0.30.0 // indirect
+	golang.org/x/mod v0.31.0 // indirect
 	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/sync v0.18.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/sys v0.39.0 // indirect
 	golang.org/x/telemetry v0.0.0-20251111182119-bc8e575c7b54 // indirect
 	golang.org/x/term v0.37.0 // indirect
 	golang.org/x/text v0.31.0 // indirect
